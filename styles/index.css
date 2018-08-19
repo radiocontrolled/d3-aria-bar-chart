@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+svg {
+  border: 1px solid pink;
+}
+
 .axis path,
 .axis line {
   fill: none;
