@@ -8,6 +8,10 @@ svg {
   border: 1px solid pink;
 }
 
+.canvas {
+  fill: black;
+}
+
 .axis path,
 .axis line {
   fill: none;
