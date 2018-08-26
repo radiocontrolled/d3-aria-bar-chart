@@ -1,11 +1,8 @@
 html,
 body {
-  padding: 16px;
+  padding: 0 16px 0 16px;
   margin: 0;
-}
-
-svg {
-  border: 1px solid pink;
+  font-size: 16px;
 }
 
 .canvas {
@@ -19,10 +16,16 @@ svg {
   shape-rendering: crispEdges;
 }
 
-.axis text {
-  font-size: 11px;
+text {
+  font-size: 12px;
+  fill: #34495E;
 }
 
-.bar {
-  fill: steelblue;
+.y-axis .tick line,
+.y-axis .domain {
+  display: none;
+}
+
+.rectangle {
+  fill: #34495E;
 }

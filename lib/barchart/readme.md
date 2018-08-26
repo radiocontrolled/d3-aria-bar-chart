@@ -1,0 +1,1 @@
+scaleBand instead of scaleTime
