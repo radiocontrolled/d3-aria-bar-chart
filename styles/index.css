@@ -39,3 +39,7 @@ text {
   fill: white;
 }
 
+.a11yHidden {
+  fill: transparent;
+}
+ 
