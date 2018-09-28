@@ -7,5 +7,6 @@ Features:
 * calls resize, throttled using a debounce function for performance
 
 To-do: 
-* no-JS, a11y
+* resize the labels.
+* no-JS
 * prettier colours: http://alignedleft.com/content/03-tutorials/01-d3/130-making-a-bar-chart/10.html
